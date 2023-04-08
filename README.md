@@ -2,7 +2,7 @@
 This end to end machine learning project will predict the student performance from several variable 
 ![Banner!](https://github.com/Asifbinsyed/Studentperformace/blob/main/Student.png?raw=true)
 
-<div id="badges">
+<div id="badge-container" style="display: flex; justify-content: center; align-items: center;">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
