@@ -3,10 +3,10 @@ This end to end machine learning project will predict the student performance fr
 ![Banner!](https://github.com/Asifbinsyed/Studentperformace/blob/main/Student.png?raw=true)
 
 <div id="badge-container">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/asifbinsyed/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="your-medium-URL">
+  <a href="">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="your-twitter-URL">
