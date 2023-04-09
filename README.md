@@ -23,4 +23,9 @@ This end to end machine learning project will predict the student performance fr
 - The data consists of 8 column and 1000 rows.
 
 ### Exploratory data Analytics
+
+#### Histogram plot based on the gender
+
 ![Histogram!](https://github.com/Asifbinsyed/Studentperformace/blob/main/image/histogram_based_on_gender.png)
+
+*insight:* Female tends to do better in the exam
