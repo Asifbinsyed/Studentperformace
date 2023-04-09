@@ -32,13 +32,14 @@ This end to end machine learning project will predict the student performance fr
 
 #### Histogram plot based on the other varibles
 ![Histogram other!](https://github.com/Asifbinsyed/Studentperformace/blob/main/image/histogram_for_other_varibles.png)
-
+- Standard lunch helps perform well in exams.
+- Standard lunch helps perform well in exams be it a male or a female.
 #### Pairplot for genders
 ![pair plot!](https://github.com/Asifbinsyed/Studentperformace/blob/main/image/pairplot.png)
 
+- From the above plot it is clear that all the scores increase linearly with each other.
 
-
-#### R2_ Score for the model
+#### R2_ Scorea for the model
 
 | Model Name              | R2_Score | Rank |
 | ----------------------- | -------- | ---- |
