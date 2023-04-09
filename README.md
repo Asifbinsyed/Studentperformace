@@ -29,3 +29,9 @@ This end to end machine learning project will predict the student performance fr
 ![Histogram!](https://github.com/Asifbinsyed/Studentperformace/blob/main/image/histogram_based_on_gender.png)
 
 *insight:* Female tends to do better in the exam
+
+#### Histogram plot based on the other varibles
+![Histogram other!](https://github.com/Asifbinsyed/Studentperformace/blob/main/image/histogram_for_other_varibles.png)
+
+#### Pairplot for genders
+![pair plot!](https://github.com/Asifbinsyed/Studentperformace/blob/main/image/pairplot.png)
