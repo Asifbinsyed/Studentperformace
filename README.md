@@ -52,3 +52,17 @@ This end to end machine learning project will predict the student performance fr
 | XGBRegressor            | 0.821589 | 6    |
 | K-Neighbors Regressor   | 0.783813 | 3    |
 | Decision Tree           | 0.756574 | 4    |
+
+
+
+### requirement for running the code
+Install my-project with npm
+
+```bash
+  pip install -r requirement.txt
+```
+    
+
+## Acknowledgements
+
+ - [End to End Machine learning By Krish](https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
