@@ -40,14 +40,14 @@ This end to end machine learning project will predict the student performance fr
 
 #### R2_ Score for the model
 
-|   Model Name               R2_Score      Rank   |
-| ----------------------- | ---------- | -------- | 
-| Ridge                   | 0.880593   |    2     |
-| Linear Regression       | 0.879226   |    0     |
-| Random Forest Regressor | 0.852189   |    5     |
-| CatBoosting Regressor   | 0.851632   |    7     |
-| AdaBoost Regressor      | 0.846089   |    8     |
-| Lasso                   | 0.825320   |    1     |
-| XGBRegressor            | 0.821589   |    6     |
-| K-Neighbors Regressor   | 0.783813   |    3     |
-| Decision Tree           | 0.756574   |    4     |
+| Model Name              | R2_Score | Rank |
+| ----------------------- | -------- | ---- |
+| Ridge                   | 0.880593 | 2    |
+| Linear Regression       | 0.879226 | 0    |
+| Random Forest Regressor | 0.852189 | 5    |
+| CatBoosting Regressor   | 0.851632 | 7    |
+| AdaBoost Regressor      | 0.846089 | 8    |
+| Lasso                   | 0.825320 | 1    |
+| XGBRegressor            | 0.821589 | 6    |
+| K-Neighbors Regressor   | 0.783813 | 3    |
+| Decision Tree           | 0.756574 | 4    |
