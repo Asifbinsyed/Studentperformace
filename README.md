@@ -1,6 +1,6 @@
 # End to End Machine Learning Project
 This end to end machine learning project will predict the student performance from several variable 
-![Banner!](https://github.com/Asifbinsyed/Studentperformace/blob/main/Student.png?raw=true)
+![Banner!](https://github.com/Asifbinsyed/Studentperformace/blob/main/image/Predict_student_performance_using_machine_learning.png)
 
 <div id="badge-container">
   <a href="https://www.linkedin.com/in/asifbinsyed/">
@@ -39,7 +39,7 @@ This end to end machine learning project will predict the student performance fr
 
 - From the above plot it is clear that all the scores increase linearly with each other.
 
-#### R2_ Scorea for the model
+#### R2_ Scores for the model
 
 | Model Name              | R2_Score | Rank |
 | ----------------------- | -------- | ---- |
