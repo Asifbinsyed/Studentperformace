@@ -67,13 +67,9 @@ Install my-project with npm
 
  - [End to End Machine learning By Krish](https://www.youtube.com/playlist?list=PLZoTAELRMXVPS-dOaVbAux22vzqdgoGhG)
 
-<style>
-  .scroll-container {
-    overflow-y: scroll;
-  }
-</style>
+## Scrollable Section
 
-<div class="scroll-container" markdown="block">
+<div style="overflow-y: auto; max-height: 100px;">
   This is the content you want to have a scrolling feature.
    These following graphs and plots were primarily created using Matplotlib and the Seaborn package.
  - Bar plot, count plot, pair plot, dist plot, box plot, nad heatmap
