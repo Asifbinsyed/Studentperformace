@@ -69,8 +69,7 @@ Install my-project with npm
 
 <style>
   .scroll-container {
-    overflow-y: auto;
-    max-height: 100px;
+    overflow-y: scroll;
   }
 </style>
 
